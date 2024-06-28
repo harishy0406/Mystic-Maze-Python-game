@@ -47,11 +47,15 @@
 ## Snapshots 📸
 Here are some snapshots of the game:
 
+### Gameplay 🕹️
+![image](https://github.com/harishy0406/Naruto_Firestorm_Clash/blob/main/Gameplay.gif)
+
+
 ### Main Menu 🏠
 ![image](https://github.com/harishy0406/Naruto_Firestorm_Clash/assets/142865295/4d6cb649-f13c-4b1d-aa11-3a1a3f3453b7)
 
 
-### Gameplay 🎮
+### Game Screen 🎮
 ![image](https://github.com/harishy0406/Naruto_Firestorm_Clash/assets/142865295/78035a13-a4a5-41a9-9f80-3d4ed4121fc3)
 
 
