@@ -20,7 +20,7 @@
 ### Setup
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/Naruto_Firestorm_Clash.git
+    git clone https://github.com/harishy0406/Naruto_Firestorm_Clash
     ```
 
 2. **Navigate to the project directory:**
